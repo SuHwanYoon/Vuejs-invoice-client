@@ -1,19 +1,13 @@
 # invoicely_vue
 
-## Project setup
-```
-npm install
-```
+<!-- ### Home
+![Home](/public/screenshots/home.png) -->
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Home
+![Home](/public/screenshots/home_jp.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<!-- ### Sign-up
+![SignUp](/public/screenshots/signup.png) -->
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Sign-up
+![SignUp](/public/screenshots/signup_jp.png)

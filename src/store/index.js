@@ -1,6 +1,6 @@
 import { createStore } from 'vuex'
 
-
+// Vuex 상태 관리 관련 파일 저장
 //애플리케이션 전역의 상태관리
 export default createStore({
   // 상태관리
